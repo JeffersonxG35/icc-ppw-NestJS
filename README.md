@@ -6,7 +6,7 @@
 <img src="src/assets/02-instalacion.png" width="600">
 
 ## Endpoint status
-<img src="src/assets/03-status.png" width="600">
+<img src="src/assets/03-status-endpoint.png" width="600">
 
-## Endpoint status
-<img src="src/assets/04-directorios.png" width="600">
+## Status
+<img src="src/assets/04-status.png" width="600">
